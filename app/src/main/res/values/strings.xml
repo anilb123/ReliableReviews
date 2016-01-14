@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reliable Reviews</string>
+
+    <string name="hello_world">Enter the Product Name!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_searchactivity">Searchactivity</string>
+</resources>
